@@ -1,0 +1,2032 @@
+{
+  "Bihar": {
+    "Araria": {
+      "Araria": {
+        "Panchayat": []
+      },
+      "Bhargama": {
+        "Panchayat": []
+      },
+      "Forbesganj": {
+        "Panchayat": []
+      },
+      "Jokihat": {
+        "Panchayat": []
+      },
+      "Kursakanta": {
+        "Panchayat": []
+      },
+      "Narpatganj": {
+        "Panchayat": []
+      },
+      "Palasi": {
+        "Panchayat": []
+      },
+      "Raniganj": {
+        "Panchayat": []
+      },
+      "Sikty": {
+        "Panchayat": []
+      }
+    },
+    "Arwal": {
+      "Arwal": {
+        "Panchayat": []
+      },
+      "Kaler": {
+        "Panchayat": []
+      },
+      "Kapri": {
+        "Panchayat": []
+      },
+      "Kurtha": {
+        "Panchayat": []
+      },
+      "Sonbhadra-Bansi-Surajpur": {
+        "Panchayat": []
+      }
+    },
+    "Aurangabad": {
+      "Aurangabad": {
+        "Panchayat": []
+      },
+      "Barun": {
+        "Panchayat": []
+      },
+      "Daudnagar": {
+        "Panchayat": []
+      },
+      "Deo": {
+        "Panchayat": []
+      },
+      "Goh": {
+        "Panchayat": []
+      },
+      "Haspura": {
+        "Panchayat": []
+      },
+      "Kutumba": {
+        "Panchayat": []
+      },
+      "Madanpur": {
+        "Panchayat": []
+      },
+      "Nabinagar": {
+        "Panchayat": []
+      },
+      "Obra": {
+        "Panchayat": []
+      },
+      "Rafiganj": {
+        "Panchayat": []
+      }
+    },
+    "Banka": {
+      "Amarpur": {
+        "Panchayat": []
+      },
+      "Banka": {
+        "Panchayat": []
+      },
+      "Barahat": {
+        "Panchayat": []
+      },
+      "Bausi": {
+        "Panchayat": []
+      },
+      "Belhar": {
+        "Panchayat": []
+      },
+      "Chandan": {
+        "Panchayat": []
+      },
+      "Dhuraiya": {
+        "Panchayat": []
+      },
+      "Fullidumar": {
+        "Panchayat": []
+      },
+      "Katoria": {
+        "Panchayat": []
+      },
+      "Rajaun": {
+        "Panchayat": []
+      },
+      "Shambhuganj": {
+        "Panchayat": []
+      }
+    },
+    "Begusarai": {
+      "Bachhwara": {
+        "Panchayat": []
+      },
+      "Bakhri": {
+        "Panchayat": []
+      },
+      "Ballia": {
+        "Panchayat": []
+      },
+      "Barauni": {
+        "Panchayat": []
+      },
+      "Begusarai": {
+        "Panchayat": []
+      },
+      "Bhagwanpur": {
+        "Panchayat": []
+      },
+      "Birpur": {
+        "Panchayat": []
+      },
+      "Cheria Bariarpur": {
+        "Panchayat": []
+      },
+      "Chhaurahi": {
+        "Panchayat": []
+      },
+      "Dandari": {
+        "Panchayat": []
+      },
+      "Gadhpura": {
+        "Panchayat": []
+      },
+      "Khodawandpur": {
+        "Panchayat": []
+      },
+      "Mansurchak": {
+        "Panchayat": []
+      },
+      "Matihani": {
+        "Panchayat": []
+      },
+      "Nawkothi": {
+        "Panchayat": []
+      },
+      "Sahebpur Kamal": {
+        "Panchayat": []
+      },
+      "Samho Akha Kurha": {
+        "Panchayat": []
+      },
+      "Teghra": {
+        "Panchayat": []
+      }
+    },
+    "Bhagalpur": {
+      "Bihpur": {
+        "Panchayat": []
+      },
+      "Gopalpur": {
+        "Panchayat": []
+      },
+      "Goradih": {
+        "Panchayat": []
+      },
+      "Ismailpur": {
+        "Panchayat": []
+      },
+      "Jagdishpur": {
+        "Panchayat": []
+      },
+      "Kahalgaon": {
+        "Panchayat": []
+      },
+      "Kharik": {
+        "Panchayat": []
+      },
+      "Narayanpur": {
+        "Panchayat": []
+      },
+      "Nathnagar": {
+        "Panchayat": []
+      },
+      "Naugachhia": {
+        "Panchayat": []
+      },
+      "Pirpainti": {
+        "Panchayat": []
+      },
+      "Rangrachowk": {
+        "Panchayat": []
+      },
+      "Sabour": {
+        "Panchayat": []
+      },
+      "Shahkund": {
+        "Panchayat": []
+      },
+      "Sonhaula": {
+        "Panchayat": []
+      },
+      "Sultanganj": {
+        "Panchayat": []
+      }
+    },
+    "Bhojpur": {
+      "Agiaon": {
+        "Panchayat": []
+      },
+      "Ara": {
+        "Panchayat": []
+      },
+      "Barhara": {
+        "Panchayat": []
+      },
+      "Behea": {
+        "Panchayat": []
+      },
+      "Charpokhari": {
+        "Panchayat": []
+      },
+      "Garhani": {
+        "Panchayat": []
+      },
+      "Jagdishpur": {
+        "Panchayat": []
+      },
+      "Koilwar": {
+        "Panchayat": []
+      },
+      "Piro": {
+        "Panchayat": []
+      },
+      "Sahar": {
+        "Panchayat": []
+      },
+      "Sandesh": {
+        "Panchayat": []
+      },
+      "Shahpur": {
+        "Panchayat": []
+      },
+      "Tarari": {
+        "Panchayat": []
+      },
+      "Udwantnagar": {
+        "Panchayat": []
+      }
+    },
+    "Buxar": {
+      "Brahmpur": {
+        "Panchayat": []
+      },
+      "Buxar": {
+        "Panchayat": []
+      },
+      "Chakki": {
+        "Panchayat": []
+      },
+      "Chausa": {
+        "Panchayat": []
+      },
+      "Chougain": {
+        "Panchayat": []
+      },
+      "Dumraon": {
+        "Panchayat": []
+      },
+      "Itarhi": {
+        "Panchayat": []
+      },
+      "Kesath": {
+        "Panchayat": []
+      },
+      "Nawanagar": {
+        "Panchayat": []
+      },
+      "Rajpur": {
+        "Panchayat": []
+      },
+      "Simri": {
+        "Panchayat": []
+      }
+    },
+    "Darbhanga": {
+      "Alinagar": {
+        "Panchayat": []
+      },
+      "Bahadurpur": {
+        "Panchayat": []
+      },
+      "Baheri": {
+        "Panchayat": []
+      },
+      "Benipur": {
+        "Panchayat": []
+      },
+      "Biraul": {
+        "Panchayat": []
+      },
+      "Darbhanga": {
+        "Panchayat": []
+      },
+      "Gaurabauram": {
+        "Panchayat": []
+      },
+      "Ghanshyampur": {
+        "Panchayat": []
+      },
+      "Hanuman Nagar": {
+        "Panchayat": []
+      },
+      "Hayaghat": {
+        "Panchayat": []
+      },
+      "Jale": {
+        "Panchayat": []
+      },
+      "Keotirunway": {
+        "Panchayat": []
+      },
+      "Kiratpur": {
+        "Panchayat": []
+      },
+      "Kusheshwar Asthan": {
+        "Panchayat": []
+      },
+      "Kusheswar Asthan East": {
+        "Panchayat": []
+      },
+      "Manigachhi": {
+        "Panchayat": []
+      },
+      "Singhwara": {
+        "Panchayat": []
+      },
+      "Tardih": {
+        "Panchayat": []
+      }
+    },
+    "Gaya": {
+      "Amas": {
+        "Panchayat": []
+      },
+      "Atri": {
+        "Panchayat": []
+      },
+      "Bankey Bazar": {
+        "Panchayat": []
+      },
+      "Barachatti": {
+        "Panchayat": []
+      },
+      "Belaganj": {
+        "Panchayat": []
+      },
+      "Bodhgaya": {
+        "Panchayat": []
+      },
+      "Dobhi": {
+        "Panchayat": []
+      },
+      "Dumaria": {
+        "Panchayat": []
+      },
+      "Fatehpur": {
+        "Panchayat": []
+      },
+      "Gaya Town": {
+        "Panchayat": []
+      },
+      "Guraru": {
+        "Panchayat": []
+      },
+      "Gurua": {
+        "Panchayat": []
+      },
+      "Imamganj": {
+        "Panchayat": []
+      },
+      "Khizarsarai": {
+        "Panchayat": []
+      },
+      "Konch": {
+        "Panchayat": []
+      },
+      "Manpur": {
+        "Panchayat": []
+      },
+      "Mohanpur": {
+        "Panchayat": []
+      },
+      "Mohra": {
+        "Panchayat": []
+      },
+      "Neemchak Bathani": {
+        "Panchayat": []
+      },
+      "Paraiya": {
+        "Panchayat": []
+      },
+      "Sherghatty": {
+        "Panchayat": []
+      },
+      "Tankuppa": {
+        "Panchayat": []
+      },
+      "Tekari": {
+        "Panchayat": []
+      },
+      "Wazirganj": {
+        "Panchayat": []
+      }
+    },
+    "Jamui": {
+      "Barhat": {
+        "Panchayat": []
+      },
+      "Chakai": {
+        "Panchayat": []
+      },
+      "Gidhor": {
+        "Panchayat": []
+      },
+      "Islamnagar Aliganj": {
+        "Panchayat": []
+      },
+      "Jamui": {
+        "Panchayat": []
+      },
+      "Jhajha": {
+        "Panchayat": []
+      },
+      "Khaira": {
+        "Panchayat": []
+      },
+      "Laxmipur": {
+        "Panchayat": []
+      },
+      "Sikandra": {
+        "Panchayat": []
+      },
+      "Sono": {
+        "Panchayat": []
+      }
+    },
+    "Jehanabad": {
+      "Ghoshi": {
+        "Panchayat": []
+      },
+      "Hulasganj": {
+        "Panchayat": []
+      },
+      "Jehanabad": {
+        "Panchayat": []
+      },
+      "Kako": {
+        "Panchayat": []
+      },
+      "Makhdumpur": {
+        "Panchayat": []
+      },
+      "Modanganj": {
+        "Panchayat": []
+      },
+      "Ratni Faridpur": {
+        "Panchayat": []
+      }
+    },
+    "Kaimur": {
+      "Adhaura": {
+        "Panchayat": []
+      },
+      "Bhabua": {
+        "Panchayat": []
+      },
+      "Bhagwanpur": {
+        "Panchayat": []
+      },
+      "Chainpur": {
+        "Panchayat": []
+      },
+      "Chand": {
+        "Panchayat": []
+      },
+      "Durgawati": {
+        "Panchayat": []
+      },
+      "Kudra": {
+        "Panchayat": []
+      },
+      "Mohania": {
+        "Panchayat": []
+      },
+      "Nuaon": {
+        "Panchayat": []
+      },
+      "Ramgarh": {
+        "Panchayat": []
+      },
+      "Rampur": {
+        "Panchayat": []
+      }
+    },
+    "Katihar": {
+      "Amdabad": {
+        "Panchayat": []
+      },
+      "Azamnagar": {
+        "Panchayat": []
+      },
+      "Balrampur": {
+        "Panchayat": []
+      },
+      "Barari": {
+        "Panchayat": []
+      },
+      "Barsoi": {
+        "Panchayat": []
+      },
+      "Dandkhora": {
+        "Panchayat": []
+      },
+      "Falka": {
+        "Panchayat": []
+      },
+      "Hasanganj": {
+        "Panchayat": []
+      },
+      "Kadwa": {
+        "Panchayat": []
+      },
+      "Katihar": {
+        "Panchayat": []
+      },
+      "Korha": {
+        "Panchayat": []
+      },
+      "Kursela": {
+        "Panchayat": []
+      },
+      "Manihari": {
+        "Panchayat": []
+      },
+      "Mansahi": {
+        "Panchayat": []
+      },
+      "Pranpur": {
+        "Panchayat": []
+      },
+      "Sameli": {
+        "Panchayat": []
+      }
+    },
+    "Khagaria": {
+      "Alauli": {
+        "Panchayat": []
+      },
+      "Beldaur": {
+        "Panchayat": []
+      },
+      "Chautham": {
+        "Panchayat": []
+      },
+      "Gogri": {
+        "Panchayat": []
+      },
+      "Khagaria": {
+        "Panchayat": []
+      },
+      "Mansi": {
+        "Panchayat": []
+      },
+      "Parbatta": {
+        "Panchayat": []
+      }
+    },
+    "Kishanganj": {
+      "Bahadurganj": {
+        "Panchayat": []
+      },
+      "Dighalbank": {
+        "Panchayat": []
+      },
+      "Kishanganj": {
+        "Panchayat": []
+      },
+      "Kochadhaman": {
+        "Panchayat": []
+      },
+      "Pothia": {
+        "Panchayat": []
+      },
+      "Terhagachh": {
+        "Panchayat": []
+      },
+      "Thakurganj": {
+        "Panchayat": []
+      }
+    },
+    "Lakhisarai": {
+      "Barahiya": {
+        "Panchayat": []
+      },
+      "Channan": {
+        "Panchayat": []
+      },
+      "Halsi": {
+        "Panchayat": []
+      },
+      "Lakhisarai": {
+        "Panchayat": []
+      },
+      "Pipariya": {
+        "Panchayat": []
+      },
+      "Ramgarh Chowk": {
+        "Panchayat": []
+      },
+      "Surajgarha": {
+        "Panchayat": []
+      }
+    },
+    "Madhepura": {
+      "Alamnagar": {
+        "Panchayat": []
+      },
+      "Bihariganj": {
+        "Panchayat": []
+      },
+      "Chausa": {
+        "Panchayat": []
+      },
+      "Gamhariya": {
+        "Panchayat": []
+      },
+      "Ghelarh": {
+        "Panchayat": []
+      },
+      "Gwalpara": {
+        "Panchayat": []
+      },
+      "Kumarkhand": {
+        "Panchayat": []
+      },
+      "Madhepura": {
+        "Panchayat": []
+      },
+      "Murliganj": {
+        "Panchayat": []
+      },
+      "Purani": {
+        "Panchayat": []
+      },
+      "Shankarpur": {
+        "Panchayat": []
+      },
+      "Singheshwar": {
+        "Panchayat": []
+      },
+      "Udakishunganj": {
+        "Panchayat": []
+      }
+    },
+    "Madhubani": {
+      "Andhratharhi": {
+        "Panchayat": []
+      },
+      "Babu Barhi": {
+        "Panchayat": []
+      },
+      "Basopatti": {
+        "Panchayat": []
+      },
+      "Benipatti": {
+        "Panchayat": []
+      },
+      "Bisfi": {
+        "Panchayat": []
+      },
+      "Ghoghardiha": {
+        "Panchayat": []
+      },
+      "Harlakhi": {
+        "Panchayat": []
+      },
+      "Jainagar": {
+        "Panchayat": []
+      },
+      "Jhanjharpur": {
+        "Panchayat": []
+      },
+      "Kaluahi": {
+        "Panchayat": []
+      },
+      "Khajauli": {
+        "Panchayat": []
+      },
+      "Ladania": {
+        "Panchayat": []
+      },
+      "Lakhnaur": {
+        "Panchayat": []
+      },
+      "Laukaha (Khutauna)": {
+        "Panchayat": []
+      },
+      "Laukahi": {
+        "Panchayat": []
+      },
+      "Madhepur": {
+        "Panchayat": []
+      },
+      "Madhwapur": {
+        "Panchayat": []
+      },
+      "Pandaul": {
+        "Panchayat": []
+      },
+      "Phulparas": {
+        "Panchayat": []
+      },
+      "Rahika": {
+        "Panchayat": []
+      },
+      "Rajnagar": {
+        "Panchayat": []
+      }
+    },
+    "Munger": {
+      "Asarganj": {
+        "Panchayat": []
+      },
+      "Bariyarpur": {
+        "Panchayat": []
+      },
+      "Dharhara": {
+        "Panchayat": []
+      },
+      "Jamalpur": {
+        "Panchayat": []
+      },
+      "Kharagpur": {
+        "Panchayat": []
+      },
+      "Munger Sadar": {
+        "Panchayat": []
+      },
+      "Sangrampur": {
+        "Panchayat": []
+      },
+      "Tarapur": {
+        "Panchayat": []
+      },
+      "Tetiabambar": {
+        "Panchayat": []
+      }
+    },
+    "Muzaffarpur": {
+      "Aurai": {
+        "Panchayat": []
+      },
+      "Bandra": {
+        "Panchayat": []
+      },
+      "Bochahan": {
+        "Panchayat": []
+      },
+      "Gaighat": {
+        "Panchayat": []
+      },
+      "Kanti": {
+        "Panchayat": []
+      },
+      "Katra": {
+        "Panchayat": []
+      },
+      "Kurhani": {
+        "Panchayat": []
+      },
+      "Marwan": {
+        "Panchayat": []
+      },
+      "Minapur": {
+        "Panchayat": []
+      },
+      "Motipur": {
+        "Panchayat": []
+      },
+      "Muraul": {
+        "Panchayat": []
+      },
+      "Mushahari": {
+        "Panchayat": []
+      },
+      "Paroo": {
+        "Panchayat": []
+      },
+      "Sahebganj": {
+        "Panchayat": []
+      },
+      "Sakra": {
+        "Panchayat": []
+      },
+      "Saraiya": {
+        "Panchayat": []
+      }
+    },
+    "Nalanda": {
+      "Asthawan": {
+        "Panchayat": []
+      },
+      "Ben": {
+        "Panchayat": []
+      },
+      "Biharsharif": {
+        "Panchayat": []
+      },
+      "Bind": {
+        "Panchayat": []
+      },
+      "Chandi": {
+        "Panchayat": []
+      },
+      "Ekangarsarai": {
+        "Panchayat": []
+      },
+      "Giriak": {
+        "Panchayat": []
+      },
+      "Harnaut": {
+        "Panchayat": []
+      },
+      "Hilsa": {
+        "Panchayat": []
+      },
+      "Islampur": {
+        "Panchayat": []
+      },
+      "Karai Parsurai": {
+        "Panchayat": []
+      },
+      "Katrisarai": {
+        "Panchayat": []
+      },
+      "Nagar Nausa": {
+        "Panchayat": []
+      },
+      "Noorsarai": {
+        "Panchayat": []
+      },
+      "Parbalpur": {
+        "Panchayat": []
+      },
+      "Rahui": {
+        "Panchayat": []
+      },
+      "Rajgir": {
+        "Panchayat": []
+      },
+      "Sarmera": {
+        "Panchayat": []
+      },
+      "Silao": {
+        "Panchayat": []
+      },
+      "Tharthari": {
+        "Panchayat": []
+      }
+    },
+    "Nawada": {
+      "Akbarpur": {
+        "Panchayat": []
+      },
+      "Gobindpur": {
+        "Panchayat": []
+      },
+      "Hisua": {
+        "Panchayat": []
+      },
+      "Kashichak": {
+        "Panchayat": []
+      },
+      "Kawakole": {
+        "Panchayat": []
+      },
+      "Mescaur": {
+        "Panchayat": []
+      },
+      "Nardiganj": {
+        "Panchayat": []
+      },
+      "Narhat": {
+        "Panchayat": []
+      },
+      "Nawada": {
+        "Panchayat": []
+      },
+      "Pakri Barawan": {
+        "Panchayat": []
+      },
+      "Rajauli": {
+        "Panchayat": []
+      },
+      "Roh": {
+        "Panchayat": []
+      },
+      "Sirdala": {
+        "Panchayat": []
+      },
+      "Warisaliganj": {
+        "Panchayat": []
+      }
+    },
+    "West Champaran": {
+      "Bagaha-I": {
+        "Panchayat": []
+      },
+      "Bagaha-Ii": {
+        "Panchayat": []
+      },
+      "Bairia": {
+        "Panchayat": []
+      },
+      "Bettiah": {
+        "Panchayat": []
+      },
+      "Bhitaha": {
+        "Panchayat": []
+      },
+      "Chanpatia": {
+        "Panchayat": []
+      },
+      "Gaunaha": {
+        "Panchayat": []
+      },
+      "Jogapatti": {
+        "Panchayat": []
+      },
+      "Lauriya": {
+        "Panchayat": []
+      },
+      "Madhubani": {
+        "Panchayat": []
+      },
+      "Mainatand": {
+        "Panchayat": []
+      },
+      "Majhaulia": {
+        "Panchayat": []
+      },
+      "Narkatiaganj": {
+        "Panchayat": []
+      },
+      "Nautan": {
+        "Panchayat": []
+      },
+      "Piprasi": {
+        "Panchayat": []
+      },
+      "Ramnagar": {
+        "Panchayat": []
+      },
+      "Sikta": {
+        "Panchayat": []
+      },
+      "Thakrahan": {
+        "Panchayat": []
+      }
+    },
+    "Madhepura": {
+      "Alamnagar": {
+        "Panchayat": []
+      },
+      "Bihariganj": {
+        "Panchayat": []
+      },
+      "Chausa": {
+        "Panchayat": []
+      },
+      "Gamhariya": {
+        "Panchayat": []
+      },
+      "Ghelarh": {
+        "Panchayat": []
+      },
+      "Gwalpara": {
+        "Panchayat": []
+      },
+      "Kumarkhand": {
+        "Panchayat": []
+      },
+      "Madhepura": {
+        "Panchayat": []
+      },
+      "Murliganj": {
+        "Panchayat": []
+      },
+      "Purani": {
+        "Panchayat": []
+      },
+      "Shankarpur": {
+        "Panchayat": []
+      },
+      "Singheshwar": {
+        "Panchayat": []
+      },
+      "Udakishunganj": {
+        "Panchayat": []
+      }
+    },
+    "Madhubani": {
+      "Andhratharhi": {
+        "Panchayat": []
+      },
+      "Babu Barhi": {
+        "Panchayat": []
+      },
+      "Basopatti": {
+        "Panchayat": []
+      },
+      "Benipatti": {
+        "Panchayat": []
+      },
+      "Bisfi": {
+        "Panchayat": []
+      },
+      "Ghoghardiha": {
+        "Panchayat": []
+      },
+      "Harlakhi": {
+        "Panchayat": []
+      },
+      "Jainagar": {
+        "Panchayat": []
+      },
+      "Jhanjharpur": {
+        "Panchayat": []
+      },
+      "Kaluahi": {
+        "Panchayat": []
+      },
+      "Khajauli": {
+        "Panchayat": []
+      },
+      "Ladania": {
+        "Panchayat": []
+      },
+      "Lakhnaur": {
+        "Panchayat": []
+      },
+      "Laukaha (Khutauna)": {
+        "Panchayat": []
+      },
+      "Laukahi": {
+        "Panchayat": []
+      },
+      "Madhepur": {
+        "Panchayat": []
+      },
+      "Madhwapur": {
+        "Panchayat": []
+      },
+      "Pandaul": {
+        "Panchayat": []
+      },
+      "Phulparas": {
+        "Panchayat": []
+      },
+      "Rahika": {
+        "Panchayat": []
+      },
+      "Rajnagar": {
+        "Panchayat": []
+      }
+    },
+    "Munger": {
+      "Asarganj": {
+        "Panchayat": []
+      },
+      "Bariyarpur": {
+        "Panchayat": []
+      },
+      "Dharhara": {
+        "Panchayat": []
+      },
+      "Jamalpur": {
+        "Panchayat": []
+      },
+      "Kharagpur": {
+        "Panchayat": []
+      },
+      "Munger Sadar": {
+        "Panchayat": []
+      },
+      "Sangrampur": {
+        "Panchayat": []
+      },
+      "Tarapur": {
+        "Panchayat": []
+      },
+      "Tetiabambar": {
+        "Panchayat": []
+      }
+    },
+    "Muzaffarpur": {
+      "Aurai": {
+        "Panchayat": []
+      },
+      "Bandra": {
+        "Panchayat": []
+      },
+      "Bochahan": {
+        "Panchayat": []
+      },
+      "Gaighat": {
+        "Panchayat": []
+      },
+      "Kanti": {
+        "Panchayat": []
+      },
+      "Katra": {
+        "Panchayat": []
+      },
+      "Kurhani": {
+        "Panchayat": []
+      },
+      "Marwan": {
+        "Panchayat": []
+      },
+      "Minapur": {
+        "Panchayat": []
+      },
+      "Motipur": {
+        "Panchayat": []
+      },
+      "Muraul": {
+        "Panchayat": []
+      },
+      "Mushahari": {
+        "Panchayat": []
+      },
+      "Paroo": {
+        "Panchayat": []
+      },
+      "Sahebganj": {
+        "Panchayat": []
+      },
+      "Sakra": {
+        "Panchayat": []
+      },
+      "Saraiya": {
+        "Panchayat": []
+      }
+    },
+    "Nalanda": {
+      "Asthawan": {
+        "Panchayat": []
+      },
+      "Ben": {
+        "Panchayat": []
+      },
+      "Biharsharif": {
+        "Panchayat": []
+      },
+      "Bind": {
+        "Panchayat": []
+      },
+      "Chandi": {
+        "Panchayat": []
+      },
+      "Ekangarsarai": {
+        "Panchayat": []
+      },
+      "Giriak": {
+        "Panchayat": []
+      },
+      "Harnaut": {
+        "Panchayat": []
+      },
+      "Hilsa": {
+        "Panchayat": []
+      },
+      "Islampur": {
+        "Panchayat": []
+      },
+      "Karai Parsurai": {
+        "Panchayat": []
+      },
+      "Katrisarai": {
+        "Panchayat": []
+      },
+      "Nagar Nausa": {
+        "Panchayat": []
+      },
+      "Noorsarai": {
+        "Panchayat": []
+      },
+      "Parbalpur": {
+        "Panchayat": []
+      },
+      "Rahui": {
+        "Panchayat": []
+      },
+      "Rajgir": {
+        "Panchayat": []
+      },
+      "Sarmera": {
+        "Panchayat": []
+      },
+      "Silao": {
+        "Panchayat": []
+      },
+      "Tharthari": {
+        "Panchayat": []
+      }
+    },
+    "Nawada": {
+      "Akbarpur": {
+        "Panchayat": []
+      },
+      "Gobindpur": {
+        "Panchayat": []
+      },
+      "Hisua": {
+        "Panchayat": []
+      },
+      "Kashichak": {
+        "Panchayat": []
+      },
+      "Kawakole": {
+        "Panchayat": []
+      },
+      "Mescaur": {
+        "Panchayat": []
+      },
+      "Nardiganj": {
+        "Panchayat": []
+      },
+      "Narhat": {
+        "Panchayat": []
+      },
+      "Nawada": {
+        "Panchayat": []
+      },
+      "Pakri Barawan": {
+        "Panchayat": []
+      },
+      "Rajauli": {
+        "Panchayat": []
+      },
+      "Roh": {
+        "Panchayat": []
+      },
+      "Sirdala": {
+        "Panchayat": []
+      },
+      "Warisaliganj": {
+        "Panchayat": []
+      }
+    },
+    "West Champaran": {
+      "Bagaha-I": {
+        "Panchayat": []
+      },
+      "Bagaha-Ii": {
+        "Panchayat": []
+      },
+      "Bairia": {
+        "Panchayat": []
+      },
+      "Bettiah": {
+        "Panchayat": []
+      },
+      "Bhitaha": {
+        "Panchayat": []
+      },
+      "Chanpatia": {
+        "Panchayat": []
+      },
+      "Gaunaha": {
+        "Panchayat": []
+      },
+      "Jogapatti": {
+        "Panchayat": []
+      },
+      "Lauriya": {
+        "Panchayat": []
+      },
+      "Madhubani": {
+        "Panchayat": []
+      },
+      "Mainatand": {
+        "Panchayat": []
+      },
+      "Majhaulia": {
+        "Panchayat": []
+      },
+      "Narkatiaganj": {
+        "Panchayat": []
+      },
+      "Nautan": {
+        "Panchayat": []
+      },
+      "Piprasi": {
+        "Panchayat": []
+      },
+      "Ramnagar": {
+        "Panchayat": []
+      },
+      "Sikta": {
+        "Panchayat": []
+      },
+      "Thakrahan": {
+        "Panchayat": []
+      }
+    },
+    "Patna": {
+      "Athamalgola": {
+        "Panchayat": []
+      },
+      "Bakhtiarpur": {
+        "Panchayat": []
+      },
+      "Barh": {
+        "Panchayat": []
+      },
+      "Belchchi": {
+        "Panchayat": []
+      },
+      "Bihta": {
+        "Panchayat": []
+      },
+      "Bikram": {
+        "Panchayat": []
+      },
+      "Daniyawan": {
+        "Panchayat": []
+      },
+      "Dhanarua": {
+        "Panchayat": []
+      },
+      "Dinapur": {
+        "Panchayat": []
+      },
+      "Dulhin Bazar": {
+        "Panchayat": []
+      },
+      "Fatuha": {
+        "Panchayat": []
+      },
+      "Ghoswari": {
+        "Panchayat": []
+      },
+      "Khusrupur": {
+        "Panchayat": []
+      },
+      "Maner": {
+        "Panchayat": []
+      },
+      "Masaurhi": {
+        "Panchayat": []
+      },
+      "Mokama": {
+        "Panchayat": []
+      },
+      "Naubatpur": {
+        "Panchayat": []
+      },
+      "Paliganj": {
+        "Panchayat": []
+      },
+      "Pandarak": {
+        "Panchayat": []
+      },
+      "Patna Sadar": {
+        "Panchayat": []
+      },
+      "Patna Sadar - Didarganj": {
+        "Panchayat": []
+      },
+      "Patna Sadar - Patliputra": {
+        "Panchayat": []
+      },
+      "Patna Sadar - Patna City": {
+        "Panchayat": []
+      },
+      "Phulwari": {
+        "Panchayat": []
+      },
+      "Punpun": {
+        "Panchayat": []
+      },
+      "Sampatchak": {
+        "Panchayat": []
+      }
+    },
+    "Motihari": {
+      "Adapur": {
+        "Panchayat": []
+      },
+      "Areraj": {
+        "Panchayat": []
+      },
+      "Banjariya": {
+        "Panchayat": []
+      },
+      "Bankatwa": {
+        "Panchayat": []
+      },
+      "Chakia (Pipra)": {
+        "Panchayat": []
+      },
+      "Chawradano": {
+        "Panchayat": []
+      },
+      "Chiraiya": {
+        "Panchayat": []
+      },
+      "Dhaka": {
+        "Panchayat": []
+      },
+      "Ghorasahan": {
+        "Panchayat": []
+      },
+      "Harsidhi": {
+        "Panchayat": []
+      },
+      "Kalyanpur": {
+        "Bakhari": [],
+        "Bans Ghat": [],
+        "Bhuwan Chhapra": [],
+        "Brindavan":[],
+        "Darmaha": [],
+        "Dilawarpur": [],
+        "Gariba":[],
+         "Kalyanpur": [],
+        "Koyla Belwa": [],
+        "Mani Chapra": [],
+        "Medan Sirsiya": [],
+        "North Gawandhara": [],
+        "Pakri Dixit": [],
+        "Parsauni Wazid": [],
+        "Patna": [],
+        "Pipra Khem":[],
+        "Raghunathpur": [],
+        "Rajpur": [],
+        "Sambhu Chak": [],
+        "Shitalpur": [],
+        "Siswa Kharar": [],
+        "Siswa Sob": [],
+        "South Gawandara": []
+
+      },
+      "Kesariya": {
+          "Husenni": [],
+          "Rampur khajuriya": [],
+          "Kesariya west": [],
+          "Sarotar": [],
+        "bairia": [],
+        "bathana": [],
+        "dhekahan": [],
+        "gonchi kushar": [],
+        "khijaripur benipur": [],
+        "Mathya":[],
+        "subdarpur": [],
+        "tajpur": [],
+        "khadhan": [],
+        "kushar": [],
+        "sebhuapur": []
+
+      },
+      "Kotwa": {
+        "Panchayat": []
+      },
+      "Madhuban": {
+        "Panchayat": []
+      },
+      "Mehsi": {
+        "Panchayat": []
+      },
+      "Motihari": {
+        "Panchayat": []
+      },
+      "Paharpur": {
+        "Panchayat": []
+      },
+      "Pakridayal": {
+        "Panchayat": []
+      },
+      "Patahi": {
+        "Panchayat": []
+      },
+      "Phenhara": {
+        "Panchayat": []
+      },
+      "Pipra Kothi": {
+        "Panchayat": []
+      },
+      "Ramgarhwa": {
+        "Panchayat": []
+      },
+      "Raxaul": {
+        "Panchayat": []
+      },
+      "Sangrampur": {
+        "Panchayat": []
+      },
+      "Sugauli": {
+        "Panchayat": []
+      },
+      "Tetariya": {
+        "Panchayat": []
+      },
+      "Turkaulia": {
+        "Panchayat": []
+      }
+    },
+    "Purnia": {
+      "Amour": {
+        "Panchayat": []
+      },
+      "Baisa": {
+        "Panchayat": []
+      },
+      "Baisi": {
+        "Panchayat": []
+      },
+      "Banmankhi": {
+        "Panchayat": []
+      },
+      "Barhara": {
+        "Panchayat": []
+      },
+      "Bhawanipur": {
+        "Panchayat": []
+      },
+      "Dagraua": {
+        "Panchayat": []
+      },
+      "Dhamdaha": {
+        "Panchayat": []
+      },
+      "Jalalgarh": {
+        "Panchayat": []
+      },
+      "Kasba": {
+        "Panchayat": []
+      },
+      "Krityanand Nagar": {
+        "Panchayat": []
+      },
+      "Purnia East": {
+        "Panchayat": []
+      },
+      "Rupouli": {
+        "Panchayat": []
+      },
+      "Srinagar": {
+        "Panchayat": []
+      }
+    },
+    "Rohtas": {
+      "Akorhigola": {
+        "Panchayat": []
+      },
+      "Bikramganj": {
+        "Panchayat": []
+      },
+      "Chenari": {
+        "Panchayat": []
+      },
+      "Dawath": {
+        "Panchayat": []
+      },
+      "Dehri": {
+        "Panchayat": []
+      },
+      "Dinara": {
+        "Panchayat": []
+      },
+      "Karakat": {
+        "Panchayat": []
+      },
+      "Kargahar": {
+        "Panchayat": []
+      },
+      "Kochas": {
+        "Panchayat": []
+      },
+      "Nasriganj": {
+        "Panchayat": []
+      },
+      "Nawhatta": {
+        "Panchayat": []
+      },
+      "Nokha": {
+        "Panchayat": []
+      },
+      "Rajpur": {
+        "Panchayat": []
+      },
+      "Rohtas": {
+        "Panchayat": []
+      },
+      "Sanjhouli": {
+        "Panchayat": []
+      },
+      "Sasaram": {
+        "Panchayat": []
+      },
+      "Sheosagar": {
+        "Panchayat": []
+      },
+      "Surajpura": {
+        "Panchayat": []
+      },
+      "Tilouthu": {
+        "Panchayat": []
+      }
+    },
+    "Saharsa": {
+      "Banma Itahari": {
+        "Panchayat": []
+      },
+      "Kahara": {
+        "Panchayat": []
+      },
+      "Mahishi": {
+        "Panchayat": []
+      },
+      "Nauhatta": {
+        "Panchayat": []
+      },
+      "Patarghat": {
+        "Panchayat": []
+      },
+      "Salkhua": {
+        "Panchayat": []
+      },
+      "Sattar Kattaiya": {
+        "Panchayat": []
+      },
+      "Simri Bakhtiarpur": {
+        "Panchayat": []
+      },
+      "Sonbarsa": {
+        "Panchayat": []
+      },
+      "Sour Bazar": {
+        "Panchayat": []
+      }
+    },
+    "Samastipur": {
+      "Bibhutipur": {
+        "Panchayat": []
+      },
+      "Bithan": {
+        "Panchayat": []
+      },
+      "Dalsinghsarai": {
+        "Panchayat": []
+      },
+      "Hasanpur": {
+        "Panchayat": []
+      },
+      "Kalyanpur": {
+        "Panchayat": []
+      },
+      "Khanpur": {
+        "Panchayat": []
+      },
+      "Mohanpur": {
+        "Panchayat": []
+      },
+      "Mohiuddinagar": {
+        "Panchayat": []
+      },
+      "Morwa": {
+        "Panchayat": []
+      },
+      "Patori": {
+        "Panchayat": []
+      },
+      "Pusa": {
+        "Panchayat": []
+      },
+      "Rosera": {
+        "Panchayat": []
+      },
+      "Samastipur": {
+        "Panchayat": []
+      },
+      "Sarairanjan": {
+        "Panchayat": []
+      },
+      "Shivaji Nagar": {
+        "Panchayat": []
+      },
+      "Singhia": {
+        "Panchayat": []
+      },
+      "Tajpur": {
+        "Panchayat": []
+      },
+      "Ujiarpur": {
+        "Panchayat": []
+      },
+      "Vidyapati Nagar": {
+        "Panchayat": []
+      },
+      "Warisnagar": {
+        "Panchayat": []
+      }
+    },
+    "Saran": {
+      "Amnour": {
+        "Panchayat": []
+      },
+      "Baniapur": {
+        "Panchayat": []
+      },
+      "Chhapra": {
+        "Panchayat": []
+      },
+      "Dariapur": {
+        "Panchayat": []
+      },
+      "Dighwara": {
+        "Panchayat": []
+      },
+      "Ekma": {
+        "Panchayat": []
+      },
+      "Garkha": {
+        "Panchayat": []
+      },
+      "Isuapur": {
+        "Panchayat": []
+      },
+      "Jalalpur": {
+        "Panchayat": []
+      },
+      "Lahladpur": {
+        "Panchayat": []
+      },
+      "Maker": {
+        "Panchayat": []
+      },
+      "Manjhi": {
+        "Panchayat": []
+      },
+      "Marhaurah": {
+        "Panchayat": []
+      },
+      "Mashrakh": {
+        "Panchayat": []
+      },
+      "Nagra": {
+        "Panchayat": []
+      },
+      "Panapur": {
+        "Panchayat": []
+      },
+      "Parsa": {
+        "Panchayat": []
+      },
+      "Revelganj": {
+        "Panchayat": []
+      },
+      "Sonepur": {
+        "Panchayat": []
+      },
+      "Taraiya": {
+        "Panchayat": []
+      }
+    },
+    "Sheikhpura": {
+      "Ariari": {
+        "Panchayat": []
+      },
+      "Barbigha": {
+        "Panchayat": []
+      },
+      "Chewara": {
+        "Panchayat": []
+      },
+      "Ghatkusumbha": {
+        "Panchayat": []
+      },
+      "Sheikhpura": {
+        "Panchayat": []
+      },
+      "Shekhopur Sarai": {
+        "Panchayat": []
+      }
+    },
+    "Sheohar": {
+      "Dumari Katsari": {
+        "Panchayat": []
+      },
+      "Piprahi": {
+        "Panchayat": []
+      },
+      "Purnahiya": {
+        "Panchayat": []
+      },
+      "Sheohar": {
+        "Panchayat": []
+      },
+      "Tariyani": {
+        "Panchayat": []
+      }
+    },
+    "Sitamarhi": {
+      "Bairgania": {
+        "Panchayat": []
+      },
+      "Bajpatti": {
+        "Panchayat": []
+      },
+      "Bathanaha": {
+        "Panchayat": []
+      },
+      "Belsand": {
+        "Panchayat": []
+      },
+      "Bokhra": {
+        "Panchayat": []
+      },
+      "Choraut": {
+        "Panchayat": []
+      },
+      "Dumra": {
+        "Panchayat": []
+      },
+      "Majorganj": {
+        "Panchayat": []
+      },
+      "Nanpur": {
+        "Panchayat": []
+      },
+      "Parihar": {
+        "Panchayat": []
+      },
+      "Parsauni": {
+        "Panchayat": []
+      },
+      "Pupri": {
+        "Panchayat": []
+      },
+      "Riga": {
+        "Panchayat": []
+      },
+      "Runnisaidpur": {
+        "Panchayat": []
+      },
+      "Sonbarsa": {
+        "Panchayat": []
+      },
+      "Suppi": {
+        "Panchayat": []
+      },
+      "Sursand": {
+        "Panchayat": []
+      }
+    },
+    "Siwan": {
+      "Andar": {
+        "Panchayat": []
+      },
+      "Barharia": {
+        "Panchayat": []
+      },
+      "Basantpur": {
+        "Panchayat": []
+      },
+      "Bhagwanpur Hat": {
+        "Panchayat": []
+      },
+      "Darauli": {
+        "Panchayat": []
+      },
+      "Daraundha": {
+        "Panchayat": []
+      },
+      "Goriakothi": {
+        "Panchayat": []
+      },
+      "Guthani": {
+        "Panchayat": []
+      },
+      "Hasan Pura": {
+        "Panchayat": []
+      },
+      "Hussainganj": {
+        "Panchayat": []
+      },
+      "Lakri Nabiganj": {
+        "Panchayat": []
+      },
+      "Maharajganj": {
+        "Panchayat": []
+      },
+      "Mairwa": {
+        "Panchayat": []
+      },
+      "Nautan": {
+        "Panchayat": []
+      },
+      "Pachrukhi": {
+        "Panchayat": []
+      },
+      "Raghunathpur": {
+        "Panchayat": []
+      },
+      "Siswan": {
+        "Panchayat": []
+      },
+      "Siwan": {
+        "Panchayat": []
+      },
+      "Ziradei": {
+        "Panchayat": []
+      }
+    },
+    "Supaul": {
+      "Basantpur": {
+        "Panchayat": []
+      },
+      "Chhatapur": {
+        "Panchayat": []
+      },
+      "Kishanpur": {
+        "Panchayat": []
+      },
+      "Marauna": {
+        "Panchayat": []
+      },
+      "Nirmali": {
+        "Panchayat": []
+      },
+      "Pipra": {
+        "Panchayat": []
+      },
+      "Pratapganj": {
+        "Panchayat": []
+      },
+      "Raghopur": {
+        "Panchayat": []
+      },
+      "Saraigarh Bhaptiyahi": {
+        "Panchayat": []
+      },
+      "Supaul": {
+        "Panchayat": []
+      },
+      "Tribeniganj": {
+        "Panchayat": []
+      }
+    },
+    "Vaishali": {
+      "Bhagwanpur": {
+        "Panchayat": []
+      },
+      "Bidupur": {
+        "Panchayat": []
+      },
+      "Chehrakala": {
+        "Panchayat": []
+      },
+      "Desri": {
+        "Panchayat": []
+      },
+      "Garaul": {
+        "Panchayat": []
+      },
+      "Hajipur": {
+        "Panchayat": []
+      },
+      "Jandaha": {
+        "Panchayat": []
+      },
+      "Lalganj": {
+        "Panchayat": []
+      },
+      "Mahnar": {
+        "Panchayat": []
+      },
+      "Mahua": {
+        "Panchayat": []
+      },
+      "Patedhi Belsar": {
+        "Panchayat": []
+      },
+      "Patepur": {
+        "Panchayat": []
+      },
+      "Raghopur": {
+        "Panchayat": []
+      },
+      "Rajapakar": {
+        "Panchayat": []
+      },
+      "Sahdei Buzurg": {
+        "Panchayat": []
+      },
+      "Vaishali": {
+        "Panchayat": []
+      }
+    }
+  }
+}

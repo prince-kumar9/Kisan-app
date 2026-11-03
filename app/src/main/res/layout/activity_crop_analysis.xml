@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#F5F8F2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Header -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Crop Analysis"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="#245B35"
+            android:gravity="center"
+            android:padding="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Analyse crops grown in your selected area"
+            android:textSize="14sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:paddingBottom="18dp" />
+
+        <!-- Analysis Type -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Analysis Type"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:textSize="15sp"
+            android:paddingBottom="6dp" />
+
+        <Spinner
+            android:id="@+id/spinnerAnalysisType"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+        <!-- Month -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Month"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:textSize="15sp"
+            android:paddingTop="12dp"
+            android:paddingBottom="6dp" />
+
+        <Spinner
+            android:id="@+id/spinnerMonth"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+        <!-- Year -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Year"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:textSize="15sp"
+            android:paddingTop="12dp"
+            android:paddingBottom="6dp" />
+
+        <Spinner
+            android:id="@+id/spinnerYear"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+        <!-- Location Heading -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Location"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:textColor="#245B35"
+            android:paddingTop="20dp"
+            android:paddingBottom="10dp" />
+
+        <!-- State -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="State"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:paddingBottom="5dp" />
+
+        <Spinner
+            android:id="@+id/spinnerState"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+        <!-- District -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="District"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp" />
+
+        <Spinner
+            android:id="@+id/spinnerDistrict"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+        <!-- Block -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Block"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp" />
+
+        <Spinner
+            android:id="@+id/spinnerBlock"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+        <!-- Panchayat -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Panchayat"
+            android:textStyle="bold"
+            android:textColor="#222222"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp" />
+
+        <Spinner
+            android:id="@+id/spinnerPanchayat"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:padding="8dp"
+            android:spinnerMode="dropdown" />
+
+
+        <!-- View Analysis Button -->
+        <Button
+            android:id="@+id/btnViewAnalysis"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginTop="22dp"
+            android:text="View Analysis"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#2E7D32" />
+
+        <!-- Selected Area -->
+        <TextView
+            android:id="@+id/tvAreaName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Selected Area"
+            android:textColor="#245B35"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingTop="22dp"
+            android:paddingBottom="8dp" />
+
+        <!-- Total Area -->
+        <TextView
+            android:id="@+id/tvTotalArea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Total Cultivated Area: 0 acres"
+            android:textColor="#333333"
+            android:textSize="16sp"
+            android:padding="12dp"
+            android:background="#E4F1E2" />
+
+        <!-- Analysis Information -->
+        <TextView
+            android:id="@+id/tvAnalysisInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select location and analysis type to view crop statistics."
+            android:textColor="#555555"
+            android:textSize="14sp"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp" />
+
+        <!-- Crop Cards / Graph -->
+        <LinearLayout
+            android:id="@+id/layoutCropGraph"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="8dp"
+            android:paddingBottom="16dp" />
+
+        <!-- Back Button -->
+        <Button
+            android:id="@+id/btnBackAnalysis"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="16dp"
+            android:text="Back"
+            android:textAllCaps="false"
+            android:textColor="#245B35"
+            android:backgroundTint="#DDE8DA" />
+
+    </LinearLayout>
+
+</ScrollView>
+    
